@@ -24,7 +24,7 @@ Extensão para Google Chrome que fecha todas as guias, limpa o histórico dos ú
 ## Equipe
 
 - Arthur Santos de Araújo
-- Guilherme Amor Lourentino
+- Guilherme Amor Laurentino
 - Henrique Oliveira Barbosa
 - Marcos Adriano dos Santos
 - Maria Eduarda Messias
